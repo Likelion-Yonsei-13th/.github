@@ -38,7 +38,7 @@
 ### 3. 중앙 해커톤
 - **컨벤션:**  
   ```
-  13-HACKATHON-BACKEND-{팀이름}
+  13-HACKATHON-BACKEND-{팀 이름}
   ```
 
 ### 4. 데모데이
