@@ -44,7 +44,7 @@
 ### 4. 데모데이
 - **컨벤션:**  
   ```
-  13-DEMODAY-BACKEND-{본인 이름}
+  13-DEMODAY-BACKEND-{팀 이름}
   ```
 
 ---
